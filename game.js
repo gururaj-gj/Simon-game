@@ -1,4 +1,4 @@
-
+alert("Press anywhere on the screen if you're using mobile phone");
 var buttonColours = ["red", "blue", "green", "yellow"];
 
 var gamePattern = [];
